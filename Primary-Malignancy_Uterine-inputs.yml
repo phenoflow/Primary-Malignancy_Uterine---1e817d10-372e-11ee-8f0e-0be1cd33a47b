@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_uterine-uterus---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_uterine-isthmu---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_uterine-corpus---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_uterine-endometrium---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_uterine-neoplasm---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_uterine---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_uterine-neoplasm---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
